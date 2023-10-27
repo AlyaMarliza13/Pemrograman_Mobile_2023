@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   Text(
-                    'SOFYAN NOOR ARIEF,S.ST, M.KOM',
+                    'ALYA MARLIZA KOESNANTO',
                     style: TextStyle(
                       fontSize: 20,
                     ),
